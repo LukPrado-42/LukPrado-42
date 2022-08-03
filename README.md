@@ -1,4 +1,4 @@
-## ------------------------------------<img align="center" alt="GIF Hello There" src="https://user-images.githubusercontent.com/80990472/182497482-fe294bbb-4ab3-4763-a872-d96c1fe023c9.gif" height="150"/>---------------------------
+## <p align="center"><img align="center" alt="GIF Hello There" src="https://user-images.githubusercontent.com/80990472/182497482-fe294bbb-4ab3-4763-a872-d96c1fe023c9.gif" height="150"/>
 
 
 Hi, i'm Lucas
