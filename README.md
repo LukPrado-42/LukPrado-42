@@ -1,4 +1,4 @@
-![hello there](https://i.gifer.com/72uG.gif)
+![hello there](https://gifer.com/72uG)
 
 <!--
 **LukPrado-42/LukPrado-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
