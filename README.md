@@ -11,9 +11,9 @@ A Civil Enginner how discovered a love for programming logic and decided to take
 Lately working as freelancer developer and participating in startup development comunities and events, trying to learn as much as possible while improving teamwork and communication.
 
 #### Languages and tools:
-- React JS <i class="devicon-react-original colored"></i>
-- Node JS <i class="devicon-nodejs-plain colored"></i>
-- Tailwind <i class="devicon-tailwindcss-plain colored"></i>
+- React JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+- Node JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+- Tailwind <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
  
 <div>
